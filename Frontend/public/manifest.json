@@ -1,0 +1,17 @@
+{
+  "short_name": "SolarPMC",
+  "name": "Shree Abhi Solar Maintenance App",
+  "description": "Monthly Preventive Maintenance (PMC) inspection app for Shree Abhi Electricals & Engineering",
+  "icons": [
+    {
+      "src": "/logo.jpeg",
+      "type": "image/jpeg",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#d97706",
+  "display": "standalone",
+  "orientation": "portrait"
+}
