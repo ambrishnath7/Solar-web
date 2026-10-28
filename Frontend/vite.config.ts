@@ -9,6 +9,7 @@ export default defineConfig({
     tailwindcss(),
   ],
   server: {
+    host: true, // Listen on all network addresses (accessible via Wi-Fi / LAN on mobile)
     port: 5173,
     proxy: {
       '/api': {
